@@ -1,3 +1,10 @@
+clone is your current folder:
+
+```sh
+git clone https://github.com/SabirKazi135/Reponsive-React-Tailwind.git .
+```
+
+
 Before Starting the dev server run this below commands:
 
 Install the required dependencies with `npm`:
